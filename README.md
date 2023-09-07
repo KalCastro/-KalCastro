@@ -9,4 +9,4 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-![Snake animation](https://github.com/KalCastro/KalCastro/blob/dbcc0b4b87d313ca2c5d88ffae71f03214a95f09/cobra.yml)https://github.com/KalCastro/KalCastro/blob/dbcc0b4b87d313ca2c5d88ffae71f03214a95f09/cobra.yml]
+![Snake animation](https://github.com/KalCastro)
