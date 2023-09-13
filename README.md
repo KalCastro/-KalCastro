@@ -3,7 +3,7 @@
 ## 🤠Bem-vindo ao meu perfil do GitHub!
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalCastro&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalCastro&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalCastro&show_icons=true&theme=transparent)](https://github.com/KalCastro/github-readme-stats)
   
 </div>  
 
