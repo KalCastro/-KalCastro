@@ -4,7 +4,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalCastro&show_icons=true&theme=transparent)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalCastro&show_icons=true&theme=transparent)](https://github.com/KalCastro/github-readme-stats)
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alinefbrito" alt="alinefbrito" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KalCastro" alt="KalCastro" /></a> </p>
 
 
   
